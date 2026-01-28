@@ -16,7 +16,7 @@ SmartTrack is an enterprise-grade inventory and expiry tracking system built wit
 - ✅ Responsive Modern UI
 
 ## Technology Stack
-- **Backend**: Java 17, Spring Boot 3.2.0
+- **Backend**: Java 21, Spring Boot 3.2.0
 - **Frontend**: React 18, Material-UI, Chart.js
 - **Database**: MySQL 8.0
 - **Security**: Spring Security with JWT
@@ -58,7 +58,7 @@ smarttrack-inventory/
 ## Installation & Setup
 
 ### Prerequisites
-- Java 17 or higher
+- Java 21 or higher
 - Node.js 16+ and npm
 - MySQL 8.0+
 - Maven 3.6+
